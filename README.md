@@ -22,5 +22,3 @@
 ## Fun Facts
 - One of the original member of the Waterford City Viqueens roller derby team
 - Vegan for the last 15 years
-
-!![Waterford Viqueens Logo](https://github.com/rachelvard/first-assignment-21-oct/blob/main/viqueen.jpg)
