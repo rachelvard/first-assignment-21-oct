@@ -8,11 +8,19 @@
 ## My Favourite Things
 - Halloween - Always loved spooky things and its the absolute the best holiday to celebrate with your kid
 - Caffeine- not original but still true (plus rhymes with Halloween)
-- 
+- The Sea - even the Irish sea will do
 
 ## Professional Background
-- 
+- Spent five years as an ESG Analyst with a ratings company, assessing sustainability practices of energy, waste and water companies. 
+- Two years as a product safety consultant, running research projects to assess product safety of client's projects
+- MSc Sustainable Development - University of Surrey
+
 
 ## Previous Experiences With Coding
-- Have extremely limited exposure to R and Matlab as part of postgrad studies, but had never been exposed to code- so only used what was required to look competent
-- 
+- Have extremely limited exposure to R and Matlab as part of postgrad studies, but had never been exposed to code prior- so only used what was required to look competent
+
+## Fun Facts
+- One of the original member of the Waterford City Viqueens roller derby team
+- Vegan for the last 15 years
+
+!![Waterford Viqueens Logo](https://github.com/rachelvard/first-assignment-21-oct/blob/main/viqueen.jpg)
