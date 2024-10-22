@@ -1,5 +1,7 @@
 # Rachel
 
+[LinkedIn- lets connect!](https://www.linkedin.com/in/rachel-v-b396997b/)
+
 ## Why I Am Taking This Class
 - Facing my Fears - Having approached statistical software which required coding in the past, and really struggled, I decided to change mindset and face my fears. And committing to improve that weak spot has actually turned that fear around.
 - Career Crossroads - My job ceased to exist in the summer. This gave me time to study and some money to put towards career development. 
