@@ -8,12 +8,13 @@
 ## My Favourite Things
 - Halloween - Always loved spooky things and its the absolute the best holiday to celebrate with your kid
 - Caffeine- not original but still true (plus rhymes with Halloween)
-- The Sea - even the Irish sea will do
+- The Sea - even the freezing Irish sea will do!
 
 ## Professional Background
 - Spent five years as an ESG Analyst with a ratings company, assessing sustainability practices of energy, waste and water companies. 
 - Two years as a product safety consultant, running research projects to assess product safety of client's projects
 - MSc Sustainable Development - University of Surrey
+- MSc Bioengineering - Trinity College Dublin 
 
 
 ## Previous Experiences With Coding
@@ -21,6 +22,6 @@
 
 ## Fun Facts
 - One of the original member of the Waterford City Viqueens roller derby team
-- Vegan for the last 15 years
+- I have done a lot of different things in my career- in my Bioengineering course, I ended up spending six months in a lab making synthetic bone and culturing cells who lived on it. Before that I had an internship at a factory which made board games. 
 
-![Waterford Viqueens]https://github.com/rachelvard/first-assignment-21-oct/blob/ff0aabcd84abfb2eb9cc446149131c7e9da9960d/viqueen.jpg
+![Waterford Viqueens](C:\Users\vardr.DESKTOP-R06GCLK\first-assignment-21-oct\viqueen.jpg)
